@@ -1,0 +1,1 @@
+GENERATION_DIRECTORY = "data/generated/"
