@@ -25,6 +25,12 @@ Creates `.venv/` and installs dependencies from `requirements.txt`.
 
 ## Usage
 
+Ensure your `.env` contains 
+```txt
+OPENAI_BASE_URL="https://api.openai.com/v1" # or any other OpenAI compatible base url
+OPENAI_API_KEY="sk-xxxxxxxxxxxxxx"
+```
+Then, 
 ```bash
 make run
 ```
