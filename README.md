@@ -83,3 +83,7 @@ Finally, open the `.html` files in `extracted/` folder to visualize the knowledg
   }
 }
 ```
+
+### Note
+
+This codebase was a toy experiment where most of the code was AI generated. [ChatGPT Session](https://chatgpt.com/share/68f7ac99-ff3c-8009-aa0c-ad2b149e6eb6)
